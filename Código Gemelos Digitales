@@ -1,0 +1,188 @@
+---
+title: Gemelos Digitales para Ascensores
+authors:
+  - name: Federico Guzmán
+    department: Facultad de Ingeniería
+    email: fedeguzmanpi2001@gmail.com
+  - name: Maximiliano Ramos
+    department: Facultad de Ingeniería
+    email: maxi.ramos2001@gmail.com
+  - name: Francisco Arrigoni
+    department: Facultad de Ingeniería
+    email: arrigoni.fran00@gmail.com
+  - name: Franco Carloni
+    department: Facultad de Ingeniería
+    email: carlonifranco5@gmail.com
+  - name: Juan Manuel Vilapriño
+    department: Facultad de Ingeniería
+    email: juanvilaprino@gmail.com
+bibliography: references.bib
+biblio-style: unsrt
+output: rticles::arxiv_article
+---
+Grupo: Generación 2000
+
+# Introducción a los Gemelos Digitales
+
+## Definición
+
+Los gemelos digitales son representaciones virtuales de objetos físicos que permiten monitorear y simular su comportamiento en tiempo real. Este concepto, que surgió en la industria aeroespacial, se ha expandido a múltiples sectores gracias a los avances en tecnologías de simulación, Internet de las Cosas (IoT), y análisis de datos.
+
+## Importancia y Aplicaciones
+
+Los gemelos digitales tienen aplicaciones en diversas industrias:
+
+- **Manufactura**: Optimización de procesos y mantenimiento predictivo.
+
+- **Salud**: Simulación de órganos y sistemas para tratamientos personalizados.
+
+- **Transporte**: Monitoreo y mejora del rendimiento de vehículos.
+
+# Funcionamiento de un Gemelo Digital
+
+## Componentes
+
+### Sensores y Datos en Tiempo Real
+
+Los sensores recolectan datos sobre el estado y el rendimiento del objeto físico en tiempo real, proporcionando una base precisa para el gemelo digital.
+
+### Modelos de Simulación y Análisis
+
+Se utilizan modelos matemáticos y simulaciones para replicar el comportamiento del objeto físico bajo diversas condiciones.
+
+### Integración con Tecnologías
+
+Los gemelos digitales se integran con
+
+- **IoT**: Para la recolección continua de datos.
+
+- **Inteligencia Artificial (IA)**: Para el análisis predictivo.
+
+- **Big Data**: Para el manejo y análisis de grandes volúmenes de datos.
+
+# Aplicación de Gemelos Digitales en Ascensores
+
+## Descripción del Ascensor
+
+Un ascensor consta de varios componentes principales:
+
+- **Cabina**
+
+- **Motores**
+
+- **Sistema de control**
+
+Los ascensores son cruciales en edificios modernos para la movilidad vertical eficiente.
+
+## Implementación del Gemelo Digital
+
+### Recopilación de Datos
+
+Se utilizan sensores para monitorear:
+
+- Movimiento
+
+- Velocidad
+
+- Aceleración
+
+- Posición
+
+- Carga
+
+Estos datos permiten el monitoreo en tiempo real del estado del ascensor.
+
+### Modelado y Simulación
+
+Se crea un modelo virtual del ascensor que permite la simulación de:
+
+- Condiciones normales
+
+- Condiciones anormales, como fallas y mantenimiento
+
+### Análisis Predictivo
+
+La IA se utiliza para predecir:
+
+- Fallas
+
+- Necesidades de mantenimiento
+
+Esto optimiza el rendimiento y la seguridad del ascensor.
+
+# Beneficios de Utilizar Gemelos Digitales en Ascensores
+
+## Mantenimiento Predictivo
+
+- **Reducción de tiempos de inactividad**
+- **Prevención de fallas catastróficas**
+
+## Optimización del Rendimiento
+
+- **Mejora de la eficiencia energética**
+- **Ajuste dinámico de parámetros para mejorar la experiencia del usuario**
+
+## Seguridad y Confiabilidad
+
+- **Monitoreo continuo para asegurar el cumplimiento de normas de seguridad**
+- **Detección y respuesta inmediata a anomalías**
+
+# Desafíos y Consideraciones
+
+## Tecnológicos
+
+- **Integración de sistemas antiguos con nuevas tecnologías**
+- **Gestión y análisis de grandes volúmenes de datos**
+
+## Económicos
+
+- **Costos iniciales de implementación**
+- **Retorno de inversión a largo plazo**
+
+## Legales y de Privacidad
+
+- **Protección de datos sensibles**
+- **Cumplimiento de normativas locales e internacionales**
+
+# Casos de Estudio y Ejemplos Reales
+
+## Empresas Pioneras
+
+### Thyssenkrupp, Otis, Schindler
+
+Estas empresas ya utilizan gemelos digitales en sus ascensores, reportando beneficios significativos en mantenimiento y eficiencia operativa.
+
+## Proyectos Innovadores
+
+Proyectos específicos han demostrado mejoras en la eficiencia operativa y la satisfacción del usuario gracias a la implementación de gemelos digitales.
+
+# Futuro de los Gemelos Digitales en la Industria de Ascensores
+
+## Tendencias
+
+Se espera que los avances tecnológicos continúen impulsando nuevas aplicaciones, incluyendo la integración con ciudades inteligentes y edificios inteligentes.
+
+## Perspectivas
+
+Los gemelos digitales tienen el potencial de transformar la industria de ascensores, ofreciendo nuevas oportunidades y desafíos.
+
+
+## Representación gráfica de un ascensor en realidad virtual
+![Texto alternativo](gemelosdigitales.jpeg) [width=0.8]
+
+
+
+# Conclusión
+
+## Resumen de los Puntos Clave
+
+Los gemelos digitales son cruciales para mejorar la eficiencia, seguridad y sostenibilidad de los ascensores. Su adopción es vital para el futuro de la movilidad vertical en edificios modernos.
+
+# Referencias
+
+1. Artículos científicos sobre gemelos digitales y sus aplicaciones.
+2. Informes de la industria sobre el uso de gemelos digitales en ascensores.
+3. Estudios de caso de empresas como Thyssenkrupp, Otis y Schindler.
+4. Recursos adicionales sobre avances en IoT, IA y Big Data.
+
+
